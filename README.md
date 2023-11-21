@@ -30,6 +30,12 @@ lab5/
 ├── main.py
 └── README.md
 
+## Diagrama de Diseño
+Aqui se incluyo un diagrama de diseño creado en draw.io el cual se incluyo en el repositorio y ademas adjuntamos el link de drive. 
+
+![Diagrama de Diseño](https://drive.google.com/file/d/1v9nACPrvrM_7R6o6JTYocS426lbZ6m5O/view?usp=sharing)
+
+
 ## Dependencias del Proyecto
 Este proyecto requiere las siguientes bibliotecas de Python:
 - `Pillow` (PIL): Para manejar imágenes con la biblioteca PIL.
